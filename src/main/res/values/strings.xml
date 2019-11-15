@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TokoKu</string>
+    <string name="belanja">Belanja</string>
+    <string name="about">About Me</string>
+    <string name="buatan_afif_raihan">©2019, Buatan Afif Raihan</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="detail_barang">Detail Barang</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="for_btn_details">Details</string>
+    <string name="for_btn_favorite">Favorite</string>
+    <string name="warna_barang">Warna Barang</string>
+    <string name="harga_Barang">Harga Barang</string>
+</resources>
